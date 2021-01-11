@@ -1,0 +1,23 @@
+{
+    "name": "chat-javascript",
+    "version": "1.0.0",
+    "description": "creation d'un chat javascript",
+    "main": "index.js",
+    "type": "module",
+
+    "scripts": {
+        "start": "node inde.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "javascript"
+    ],
+    "author": "steven.quintin@wanadoo.fr",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
